@@ -1,1 +1,1 @@
-# XinguExercise
+# Exercise
